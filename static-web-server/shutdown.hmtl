@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h1>Server has been Shutdown!</h1>
+    <p>This site was served from a webserver written entirely in rust!</p>
+
+</body>
+
+</html>

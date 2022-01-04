@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Main Page of Webserver!</h1>
+<p>This site was served from a webserver written entirely in rust!</p>
+
+</body>
+</html>
